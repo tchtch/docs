@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a4203fd-1474-4e20-bd0d-7925877ec233/deploy-status)](https://app.netlify.com/sites/bucolic-cascaron-c07cb1/deploys)
 # Hugo template for Netlify CMS with Netlify Identity
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
